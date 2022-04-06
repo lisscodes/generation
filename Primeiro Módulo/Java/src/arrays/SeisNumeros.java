@@ -31,20 +31,20 @@ public class SeisNumeros {
 				
 			}
 					
-		System.out.println("Os numeros pares foram: ");	
+		 System.out.println("Os números pares foram: ");	
 			
 			for(x = 0; x < par; x++) {
 				System.out.print(pares[x]+", ");
 			}
 
-		System.out.println("\nA soma dos numeros pares foi de: "+somapar);
+		 System.out.println("\nA soma dos números pares corresponde a: "+somapar);
 		
-		System.out.println("Os numeros impares foram: ");
+		 System.out.println("Os números ímpares foram: ");
 		
-		for(x = 0; x < impar; x++) {
+		 for(x = 0; x < impar; x++) {
 			System.out.print(impares[x]+", ");
-		}
-		System.out.println("\nAquantidade de numeros impares foi de: "+impar);
+		 }
+		 System.out.println("\nA quantidade de números ímpares corresponde a: "+impar);
 		
 	}
 
