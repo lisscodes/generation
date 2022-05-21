@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;  /* CSS Reset */
+    }
+
+/*Estilos da página index.html*/
+#menu li {
+    display: inline;
+    padding: 30px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+#menu li a:hover {
+    color:grey;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.text {
+    padding: 30px;
+}
+
+h1 {
+    padding: 30px;
+}
+
+h2 {
+    padding: 30px;
+}
+
+iframe {
+    padding: 30px;
+}
+
+.foto {
+    border-radius: 10%;
+}
+
+.wh {
+    width: 500px;
+    height: 500px;
+}
+
+.container {
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto {
+     width: 500px;    /* largura da imagem */
+     height: 350px;   /*  altura da imagem  */
+     margin-top: 10px; /* margem do topo */
+
+}
+
+
+
+
+/*Estilos da página contato.html*/
+
+
